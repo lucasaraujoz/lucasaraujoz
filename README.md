@@ -1,5 +1,4 @@
 ### Olá, sou o Lucas Araújo
- ![Snake animation](https://github.com/lucasaraujoz/lucasaraujoz/blob/output/github-contribution-grid-snake.svg)
 
 - 🌱 Estudando dart com flutter
 - 👯 Graduando Ciência da Computação...
@@ -9,3 +8,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaraujoz&layout=compact&langs_count=16&theme=dark"/>
 </div>
 ### Snake
+ ![Snake animation](https://github.com/lucasaraujoz/lucasaraujoz/blob/output/github-contribution-grid-snake.svg)
+
