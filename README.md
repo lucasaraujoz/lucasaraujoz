@@ -8,5 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaraujoz&layout=compact&langs_count=16&theme=dark"/>
 </div>
  
-<p> Ola </p>
-![Snake animation](https://github.com/lucasaraujoz/lucasaraujoz/blob/output/github-contribution-grid-snake.svg)
+ <p> Ola</p>
+<p>
+ ![Snake animation](https://github.com/lucasaraujoz/lucasaraujoz/blob/output/github-contribution-grid-snake.svg)
+ </p>
