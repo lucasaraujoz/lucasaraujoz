@@ -1,4 +1,4 @@
-## Olá Eu sou o Lucas Araújo 
+## Olá, eu sou o Lucas Araújo 
 - 🎈 Graduando Ciência da Computação
 - 🎡 Estudando flutter 
  <div>
